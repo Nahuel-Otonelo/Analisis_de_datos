@@ -1,0 +1,35 @@
+# Entorno Virtual
+venv/
+.venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de datos y CSV
+*.csv
+*.pkl
+*.dat
+
+# Archivos compilados y temporales
+*.pdf
+*.log
+*.tmp
+*.bak
+
+# Imágenes generadas
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Archivos de editores
+.vscode/
+.idea/
+
+# Archivos de texto varios
+*.txt
+
+findandreplace
