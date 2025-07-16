@@ -14,3 +14,15 @@
 - Plantear un posible problema de ML supervisado a partir de los datos elegidos.
 - Describir el problema de clasificación o de regresión.
 - Definir la variable target.
+
+
+Instrucciones para el manejo del dataset en el notebook:
+
+Este dataset no entra aun comprimido para subir a github, por lo que facilitamos un link a un google drive con los .csv subidos
+
+https://drive.google.com/drive/folders/1lG8QrERAQPhw-iBLtAvkQGS5dZl-V_px?usp=sharing
+
+Descargar estos .csv a la raiz del proyecto donde esta el notebook para poder correrlo correctamente. Este dataset pertenece a sepa_1_comercio-sepa-10_2025-06-27_09-05-10
+, es decir, a la fecha de 27-06-2025
+
+
