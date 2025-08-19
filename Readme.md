@@ -26,3 +26,6 @@ Descargar estos .csv a la raiz del proyecto donde esta el notebook para poder co
 , es decir, a la fecha de 27-06-2025
 
 
+Parte 2
+
+Utilizar el archivo df.pkl que esta en este repositorio y subirlo a la notebook de TP2.ipynb
